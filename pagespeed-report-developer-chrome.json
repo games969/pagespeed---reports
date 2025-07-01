@@ -1,0 +1,34 @@
+{
+  "url": "https://developer.chrome.com/",
+  "reportGeneratedAt": "2025-07-02T12:45:28+07:00",
+  "device": "Desktop",
+  "overallScore": {
+    "performance": 90,
+    "accessibility": 93,
+    "bestPractices": 100,
+    "seo": 92
+  },
+  "webVitals": {
+    "LCP": {
+      "value": "2.6s",
+      "status": "Fail"
+    },
+    "INP": {
+      "value": "140ms",
+      "status": "Pass"
+    },
+    "CLS": {
+      "value": "0.09",
+      "status": "Pass"
+    }
+  },
+  "metrics": {
+    "FCP": "2.1s",
+    "TTFB": "1.4s",
+    "BlockingTime": "80ms",
+    "SpeedIndex": "1.4s"
+  },
+  "summary": "Performance score is 90. Core Web Vitals failed due to LCP (2.6s). All other metrics passed.",
+  "tool": "Lighthouse 12.6.1",
+  "userAgent": "HeadlessChromium 137.0.7511.119"
+}
